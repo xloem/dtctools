@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"encoding/base64"
 	"strings"
-	"./envelope"
+	"github.com/cryptrol/dtctools/envelope"
 )
 
 type Message struct {
